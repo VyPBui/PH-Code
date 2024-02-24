@@ -1,12 +1,18 @@
 body {
-	background-color: #a5d9f5;
+	background-color: rgb(255, 255, 255);
 	color: #060000;
 	text-align: center;
 	margin-top: 80px;
 }
 button {
-	background-color: #eaec91;
+	border:none;
+	background-color: #ffffff;
 	color: #000000;
 	font-size: 15px;
 	margin: 15px;
+	cursor:pointer;
+}
+
+button1 {
+	
 }

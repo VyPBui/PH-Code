@@ -1,11 +1,11 @@
-var bird = document.getElementById("bird")
-var bird_emoji = "**🐦**"
+var Healthcare = document.getElementById("bird")
+var Healthcare_emoji = "**🐦**"
 
-bird.onclick = function(){
-		console.log(bird_emoji)
-		if (bird.innerHTML.includes(bird_emoji)){
-				bird.innerHTML = “bird”
+Healthcare.onclick = function(){
+		console.log(Healthcare_emoji)
+		if (Healthcare.innerHTML.includes(Healthcare_emoji)){
+				bird.innerHTML = “Healthcare”
 		} else {
-				bird.innerHTML = bird.innerHTML +bird_emoji
+				Healthcare.innerHTML = Healthcare.innerHTML +Healthcare_emoji
 		}
 }
