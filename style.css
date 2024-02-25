@@ -6,12 +6,13 @@ body {
 }
 button {
 	border:none;
-	background-color: #ffffff;
-	color: #000000;
-	font-size: 15px;
+	background-color: transparent ;
+	color: #ffffff;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 17px;
 	margin: 15px;
 	cursor:pointer;
-	position:relative;
+	float: wrap;
 }
 
 p { 
@@ -23,3 +24,8 @@ p {
 h1{
 	font-size:50px;
 }
+
+a {
+	color: #000000;
+	text-decoration:none;
+	}
