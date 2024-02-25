@@ -1,0 +1,30 @@
+body {
+	background-color: rgb(5, 63, 110);
+	color: #f7f7f7;
+	text-align: center;
+	margin-top: 80px;
+}
+button {
+	border:none;
+	background-color: transparent ;
+	color: #ffffffe4;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 17px;
+	margin: 50px;
+	cursor:pointer;
+	float: left;
+}
+
+p { 
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+	font-size: 25px;
+
+}
+
+h1{
+	font-size:50px;
+}
+
+img{
+    margin: 90px;
+}
