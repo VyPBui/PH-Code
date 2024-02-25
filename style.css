@@ -1,6 +1,6 @@
 body {
-	background-color: rgb(255, 255, 255);
-	color: #060000;
+	background-color: rgb(5, 63, 110);
+	color: #f7f7f7;
 	text-align: center;
 	margin-top: 80px;
 }
@@ -11,8 +11,15 @@ button {
 	font-size: 15px;
 	margin: 15px;
 	cursor:pointer;
+	position:relative;
 }
 
-button1 {
-	
+p { 
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+	font-size: 25px;
+	position:relative;
+}
+
+h1{
+	font-size:50px;
 }
