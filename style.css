@@ -12,7 +12,7 @@ button {
 	font-size: 17px;
 	margin: 15px;
 	cursor:pointer;
-	float: wrap;
+	float: left;
 }
 
 p { 
