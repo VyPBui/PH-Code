@@ -10,7 +10,7 @@ button {
 	color: #ffffffe4;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	font-size: 17px;
-	margin: 15px;
+	margin: 50px;
 	cursor:pointer;
 	float: left;
 }
@@ -26,5 +26,5 @@ h1{
 }
 
 h2{
-	style=float="middle"
+	style=float="middle";
 }
